@@ -126,7 +126,7 @@ stunting_pct ~ wasting_pct
 Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/stunting-regression-analysis.git
+git clone https://github.com/Trioswnn/stunting-regression-bestsubset-forward.git
 ```
 
 Install dependencies:
